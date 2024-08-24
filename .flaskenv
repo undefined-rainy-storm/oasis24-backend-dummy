@@ -1,0 +1,1 @@
+FLASK_APP=oasis24_dummy_backend
